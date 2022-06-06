@@ -34,11 +34,19 @@ The dataset contains two files:
 
 
 ## File Description
-Starbucks_Capstone_notebook.ipynb
-
-data: -portfolio.json -profile.json -transcript.json
+data: 
+  - portfolio.json 
+  - profile.json 
 
 README.md
+
+Recommendations_with_IBM.ipynb
+
+Recommendations_with_IBM.html
+
+project_tests.py
+
+  
 
 ## Reference
 
