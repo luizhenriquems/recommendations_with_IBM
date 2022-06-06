@@ -40,3 +40,7 @@ data: -portfolio.json -profile.json -transcript.json
 
 README.md
 
+## Reference
+
+Dataset is provided by Udacity. It is the part of Data Scientist Nanodegree.
+
