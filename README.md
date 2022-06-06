@@ -15,22 +15,23 @@ The project is divided in the following parts:
 
 
 ## Used Libraries
-pandas
-numpy
-matplotlib
-project_tests
-pickle
-re
-nltk
-sklearn
+
+- pandas
+- numpy
+- matplotlib
+- project_tests
+- pickle
+- re
+- nltk
+- sklearn
 
 
 ## Dataset
 
 The dataset contains two files:
 
-- articles_community.csv
-- user-item-interactions.csv
+- articles_community.csv: it provides articles information
+- user-item-interactions.csv: it provides a list of user's interactions with articles
 
 
 ## File Description
